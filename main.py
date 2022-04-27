@@ -1,6 +1,9 @@
 from PIL import Image
 
-im = Image.open("Images/NormalImage.jpeg")
+Original_File = "Images/NormalImage.jpeg"
+Destination = "Images/ResizedImage.jpeg"
+
+im = Image.open(Original_File)
 px = im.load()
 
 pixels = list(im.getdata())
@@ -24,5 +27,5 @@ for y in new_pixel:
 
 img = Image.new(im.mode, (im.width*2,im.height*2), (0,0,0))
 img.putdata(correct_pixels)
-img.save("Images/ResizedImage.jpeg")
+img.save(Destination)
 
