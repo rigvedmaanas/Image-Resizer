@@ -17,8 +17,8 @@ This is a program which can resize an image to double the size without loosing t
 6. After this download the repository as zip and then unzip it.
 7. Open the main.py file.
 8. Change "Images/NormalImage.jpeg" to the path of the file which you need to change the size.
-9. Change "Images/ResizedImage.jpeg" to the path to which you need to save the file this should also include the name of the file.
-10. Save the File and click Run --> Run Module to run the file.
+9. Change "Images/ResizedImage.jpeg" to the path to which you need to save the file. This should also include the name of the file. For eg: "ResizedImage.jpeg".
+10. Click File --> Save to save the file and click Run --> Run Module to run the file.
 11. The file should be converted.
 12. Next time when you want to change the size of a file start from the step number 7.
 
