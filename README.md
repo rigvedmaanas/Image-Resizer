@@ -10,7 +10,7 @@ This is a program which can resize an image to double the size without loosing t
 ## Instructions
 
 1. Download the python IDE from www.python.org 
-2. Follow this tutorial to install python [Link to the tutorial] (https://www.youtube.com/watch?v=-eaFKumWT1k). Make sure you add python to the path (It's already specified in the tutorial).
+2. Follow this tutorial to install python [Link to the tutorial](https://www.youtube.com/watch?v=-eaFKumWT1k). Make sure you add python to the path (It's already specified in the tutorial).
 3. Open Command prompt in windows or Terminal in Mac or Linux.
 4. Type "pip3 install pillow"
 5. If this command does not work type "pip install pillow"
