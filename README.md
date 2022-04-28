@@ -14,15 +14,15 @@ This is a program which can resize an image to double the size without loosing t
 3. Open Command prompt in windows or Terminal in Mac or Linux.
 4. Type "pip3 install pillow"
 5. If this command does not work type "pip install pillow"
-6. After this download the repository as zip and then unzip it.
+6. After this, download the repository as zip and then unzip it.
 7. Open the main.py file.
 8. Change "Images/NormalImage.jpeg" to the path of the file which you need to change the size.
 9. Change "Images/ResizedImage.jpeg" to the path to which you need to save the file. This should also include the name of the file. For eg: "ResizedImage.jpeg".
-10. Click File --> Save to save the file and click Run --> Run Module to run the file.
+10. Click "File --> Save" to save the file and click "Run --> Run Module" to run the file.
 11. The file should be converted.
-12. Next time when you want to change the size of a file start from the step number 7.
+12. Next time when you want to change the size of a file start from step number 7.
 
-That's it.
+That's it. Let me know if you get struck in any step. Enjoy!!!
 
 ## Todo
 - [ ] Make a GUI for this program
