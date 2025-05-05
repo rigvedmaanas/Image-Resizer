@@ -22,7 +22,7 @@ This is a program which can resize an image to double the size without loosing t
 11. The file should be converted.
 12. Next time when you want to change the size of a file start from step number 7.
 
-That's it. Let me know if you get struck in any step. Enjoy!!!
+That's it. Let me know if you get stuck in any step. Enjoy!!!
 
 ## Todo
 - [ ] Make a GUI for this program
